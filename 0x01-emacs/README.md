@@ -1,1 +1,1 @@
-contains the command for opening a file within emacs
+contains the commands for operating with ease within emacs
